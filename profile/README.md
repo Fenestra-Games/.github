@@ -29,7 +29,7 @@ Browser games set in the Fenestra world, playable on desktop and mobile. Progres
 
 Play at [fenestra.gripe](https://fenestra.gripe).
 
-## Built with Assistance from Claude AI
+## Built with assistance from Claude AI
 
 All of our modules, tools, and games are developed in conjunction with [Claude](https://claude.ai), an AI assistant made by Anthropic. Ideas, design decisions, and testing are ours, and Claude helps improve and debug the code. We mention it so you know how this software is made, and we welcome bug reports whatever the cause.
 
